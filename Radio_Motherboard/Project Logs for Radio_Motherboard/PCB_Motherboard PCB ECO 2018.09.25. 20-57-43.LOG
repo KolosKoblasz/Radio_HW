@@ -1,0 +1,12 @@
+Added Component: Designator=Conn_1(DC_Connector)
+Added Component: Designator=Conn_2(DC_Connector)
+Added Component: Designator=Conn_3(DC_Connector)
+Added Component: Designator=Conn_4(DC_Connector)
+Added Component: Designator=Conn_5(DC_Connector)
+Added Pin To Net: NetName=12V_IN Pin=Conn_1-1
+Added Pin To Net: NetName=DC_IN Pin=Conn_2-1
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component Conn_1 DC_Connector
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component Conn_2 DC_Connector
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component Conn_3 DC_Connector_M
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component Conn_4 DC_Connector_M
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component Conn_5 DC_Connector_M

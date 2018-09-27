@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TP_1 Pin=BNC?-1
+Removed Pin From Net: NetName=GND Pin=BNC?-2
+Removed Pin From Net: NetName=GND Pin=BNC?-2
+Removed Pin From Net: NetName=GND Pin=BNC?-2
+Removed Pin From Net: NetName=GND Pin=BNC?-2
+Removed Member From Class: ClassName=MotherBoard_Interconnect Member=BNC?
+Added Component: Designator=SMA_?(SMA_Board)
+Added Pin To Net: NetName=TP_1 Pin=SMA_?-1
+Added Pin To Net: NetName=GND Pin=SMA_?-2
+Added Pin To Net: NetName=GND Pin=SMA_?-2
+Added Pin To Net: NetName=GND Pin=SMA_?-2
+Added Pin To Net: NetName=GND Pin=SMA_?-2
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component SMA_? SMA_2

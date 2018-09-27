@@ -1,0 +1,98 @@
+Field=Comment~String~Comment~95|Field=Digi Key Order Code~String~Digi Key Order Code~119|Field=Quantity~Integer~Quantity~45|Field=Value~String~Value~95|Field=Designator~String~Designator~68|Field=Order Code~String~Order Code~77|Field=PartNumber~String~PartNumber~112|Field=Description~String~Description~127|Field=Manufacturer~String~Manufacturer~127|Field=Mateing part~String~Mateing part~127|Field=PinNumber~String~PinNumber~127|Field=Pins~Integer~Pins~127|Field=Pitch~String~Pitch~127|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RadioProject.PrjPcb|ReportField=ProjectFullPath~D:\DIY\HW\Radio\RadioProject.PrjPcb|ReportField=Title~Bill of Materials For Project [RadioProject.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~453|ReportField=ReportTime~11:34:06|ReportField=ReportDate~2018.09.01.|ReportField=ReportDateTime~2018.09.01. 11:34:06|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~2018.09.01.|ReportField=CurrentTime~11:15:24|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\DIY\HW\ADC_board.SchDoc|ReportField=DocumentName~ADC_board.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~2018.09.01.|ReportField=Organization~|ReportField=ProjectName~RadioProject.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~9|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~RadioProject.PrjPcb|ReportField=DataSourceFullPath~D:\DIY\HW\Radio\RadioProject.PrjPcb
+AD8131||1||AMP_1|AD8131AR|AD8131|High Speed Differential Driver|Analog Devices|||8|
+AD9215||1||ADC_1||AD9215|Analog Digital Converter|Analog Devices|||28|
+ADF4355||1||SYTH_1|ADF4355-2BCPZ|ADF4355|Sythesizer with integrated VCO|Analog Devices|||33|
+ADL5365||2||MIX_1, MIX_2|ADL5365ACPZ-R7|ADL5365|RF Mixer|Analog Devices|||21|
+ADR3412||1||VREF_1|ADR3412ARJZ-R2|ADR3412|1.2 Voltage Ref Source|Analog Devices|||6|
+Balun||1||B4||HHM1918A2|SMD Balun|TDK|||4|
+Balun||2||B1, B2||T16-1-KK81+|SMD Balun|Mini Circuits|||6|
+Balun||2||B3, B5||MABA-007237-ETC410, ?|SMD Balun|MACOM, ?|||5|
+Cap1||1|100uF|C118|||SMD Capacitor||||2|
+Cap1||1|220pF|C203|||SMD Capacitor||||2|
+Cap1||1|330pF|C119|||SMD Capacitor||||2|
+Cap1||1|33nF|C129|||SMD Capacitor||||2|
+Cap1||1|4.7pF|C117|||SMD Capacitor||||2|
+Cap1||14|1uF|C4, C9, C13, C32, C35, C41, C85, C94, C116, C149, C154, C159, C186, C196|||SMD Capacitor||||2|
+Cap1||2|0.47uF|C115, C121|||SMD Capacitor||||2|
+Cap1||2|1.5nF|C126, C132|||SMD Capacitor||||2|
+Cap1||2|184.8pF|C27, C55|||SMD Capacitor||||2|
+Cap1||2|1pF|C77, C202|||SMD Capacitor||||2|
+Cap1||2|272.3pF|C24, C53|||SMD Capacitor||||2|
+Cap1||2|3.54pF|C23, C51|||SMD Capacitor||||2|
+Cap1||2|3.5nF|C101, C102|||SMD Capacitor||||2|
+Cap1||2|3pF|C79, C180|||SMD Capacitor||||2|
+Cap1||2|64.31pF|C18, C46|||SMD Capacitor||||2|
+Cap1||2|64.3pF|C31, C57|||SMD Capacitor||||2|
+Cap1||2|85.88pF|C22, C50|||SMD Capacitor||||2|
+Cap1||2|93.57pF|C19, C48|||SMD Capacitor||||2|
+Cap1||20|1nF|C7, C12, C16, C34, C37, C69, C70, C91, C96, C99, C138, C153, C158, C164, C165, C185, C193, C198, C199, C200|||SMD Capacitor||||2|
+Cap1||21|10pF|C59, C68, C73, C75, C76, C81, C82, C83, C130, C131, C135, C142, C145, C148, C150, C167, C171, C173, C175, C177, C178|||SMD Capacitor||||2|
+Cap1||3|0.3pF|C89, C163, C194|||SMD Capacitor||||2|
+Cap1||3|20pF|C90, C160, C190|||SMD Capacitor||||2|
+Cap1||4|22pF|C62, C66, C168, C170|||SMD Capacitor||||2|
+Cap1||4|260.4pF|C21, C26, C49, C52|||SMD Capacitor||||2|
+Cap1||4|5.67pF|C20, C28, C47, C54|||SMD Capacitor||||2|
+Cap1||4|560pF|C67, C72, C172, C174|||SMD Capacitor||||2|
+Cap1||52|100nF|C1, C2, C5, C6, C10, C11, C14, C15, C17, C25, C29, C30, C33, C36, C38, C39, C40, C43, C45, C56, C58, C60, C61, C65, C71, C74, C84, C88, C97, C114, C125, C127, C128, C133, C134, C139, C140, C141, C144, C146, C147, C151, C152, C157, C162, C169, C176, C188, C189, C191, C192, C197|||SMD Capacitor||||2|
+Cap1||6|1.5pF|C95, C100, C155, C156, C183, C184|||SMD Capacitor||||2|
+Cap1||7|10uF|C3, C8, C64, C103, C104, C105, C106|||SMD Capacitor||||2|
+Cap1||7|2.2uF|C98, C112, C113, C123, C124, C166, C182|||SMD Capacitor||||2|
+Cap1||8|100pF|C44, C63, C93, C136, C137, C161, C187, C195|||SMD Capacitor||||2|
+Cap1||8|4.7uF|C78, C107, C108, C109, C110, C111, C122, C179|||SMD Capacitor||||2|
+Cap1||9|10nF|C42, C80, C86, C87, C92, C120, C143, C181, C201|||SMD Capacitor||||2|
+DAC9744||1||DAC_1|AD9744ARZ|AD9744|Digital Analog Converter|Analog Devices|||28|
+DC_Connector|CP-037A-ND|2||Conn_1, Conn_2|||Coaxial DC connector - female||EP501A-ND||2|
+Ferrit Bead||2|300Ohm @2MHz|FB1||FB20022-4B-RC|Ferrit Bead|Bourns|||2|
+Header1|M20-9761546-ND|6||Header1, Header2, Header3, Header5, Header7, Header8|||29 Pin Header|||30|30|2.54mm
+Header2|3M156386-48-ND|2||Header4, Header6|||48 Pin Header|||48|48|2.54mm
+HMC789ST89E||3||AMP_2, AMP_3, AMP_4|HMC789ST89E|HMC789ST89E|Gain Block MMIC|Analog Devices|||4|
+HMC8073||2||DIG_ATT_1, DIG_ATT_2|HMC8073LP3DE|HMC8073|Digital Attenuator|Analog Devices|||17|
+Inductor||2|0nH|L2, L13|||SMD Inductor||||2|
+Inductor||2|1.5nH|L21, L28|||SMD Inductor||||2|
+Inductor||2|333.3nH|L7, L18|||SMD Inductor||||2|
+Inductor||2|339.2nH|L4, L16|||SMD Inductor||||2|
+Inductor||2|7.5nH|L24, L25|||SMD Inductor||||2|
+Inductor||2|722.6nH|L6, L15|||SMD Inductor||||2|
+Inductor||3|18nH|L22, L26, L27|||SMD Inductor||||2|
+Inductor||4|39.78nH|L1, L10, L11, L20|||SMD Inductor||||2|
+Inductor||4|450.5nH|L3, L9, L12, L19|||SMD Inductor||||2|
+Inductor||4|9.82nH|L5, L8, L14, L17|||SMD Inductor||||2|
+Inductor|495-6782-1-ND|1|1.2uH|L23|||SMD Inductor||||2|
+LED_Green||12||LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12||LTST-C171KGKT|Diode|LITEON|||2|
+LT5538||2||DET_1, DET_2|LT5538IDD#PBF|LT5538|Detector|Analog Devices|||9|
+LT8646S||1||SWPS_1|LT8646SEV#PBF|LT8646S|Step-Down Silent Switcher Power Supply|Analog Devices|||38|
+LTC6905||1||OSC_1|LTC6905-100|LTC6905-100|Fixed frequency oscillator|Analog Devices|||5|
+LTI1965||4||LDO_1, LDO_2, LDO_3, LDO_4|LT1965EDD#PBF|LTI1965|Low Dropout Linear Regulator|Analog Devices|||9|
+Resistor||1|1.75k|R98|||SMD Resistor||||2|
+Resistor||1|100k|R107|||SMD Resistor||||2|
+Resistor||1|17.8k|R109|||SMD Resistor||||2|
+Resistor||1|193K|R106|||SMD Resistor||||2|
+Resistor||1|1M|R105|||SMD Resistor||||2|
+Resistor||1|2k|R42|||SMD Resistor||||2|
+Resistor||1|3.3K|R111|||SMD Resistor||||2|
+Resistor||1|4.7K|R118|||SMD Resistor||||2|
+Resistor||1|65|R93|||SMD Resistor||||2|
+Resistor||1|7.5k|R108|||SMD Resistor||||2|
+Resistor||1|800|R50|||SMD Resistor||||2|
+Resistor||10|37.4|R64, R65, R73, R75, R121, R122, R141, R142, R149, R150|||SMD Resistor||||2|
+Resistor||2||R52, R143|||SMD Resistor||||2|
+Resistor||2|1.5k|R66, R67|||SMD Resistor||||2|
+Resistor||2|1.7k|R57, R139|||SMD Resistor||||2|
+Resistor||2|100|R79, R88|||SMD Resistor||||2|
+Resistor||2|110|R68, R69|||SMD Resistor||||2|
+Resistor||2|51|R51, R132|||SMD Resistor||||2|
+Resistor||2|56|R59, R145|||SMD Resistor||||2|
+Resistor||2|750|R61, R62|||SMD Resistor||||2|
+Resistor||3|150|R94, R95, R96|||SMD Resistor||||2|
+Resistor||3|3.16k|R100, R102, R104|||SMD Resistor||||2|
+Resistor||37|200|R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R76, R77, R78, R126, R127, R128, R129, R146, R147, R148|||SMD Resistor||||2|
+Resistor||39|0|R1, R19, R20, R21, R22, R23, R24, R41, R43, R44, R45, R46, R47, R48, R49, R53, R54, R55, R70, R71, R72, R110, R112, R114, R115, R116, R117, R120, R123, R124, R125, R130, R131, R133, R134, R135, R137, R138, R144|||SMD Resistor||||2|
+Resistor||4|0.1|R89, R90, R91, R92|||SMD Resistor||||2|
+Resistor||5|10k|R40, R56, R58, R60, R136|||SMD Resistor||||2|
+Resistor||5|150.5|R63, R74, R119, R140, R151|||SMD Resistor||||2|
+Resistor||8|500|R80, R81, R82, R83, R84, R85, R86, R87|||SMD Resistor||||2|
+Resistor||9|1k|R3, R4, R5, R6, R97, R99, R101, R103, R113|||SMD Resistor||||2|
+SMA1||13||SMA1, SMA2, SMA3, SMA4, SMA5, SMA6, SMA7, SMA8, SMA9, SMA10, SMA11, SMA12, SMA13||CON-SMA-EDGE-S, CON-SMA-EDGE-S, CON-SMA-EDGE-S, CON-SMA-EDGE-S, [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue]|SMA Female|RF Solutions Ltd., RF Solutions Ltd., RF Solutions Ltd., RF Solutions Ltd., [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue]|||2|
+Socket1|S7083-ND|8||Socket1, Socket2, Socket3, Socket4, Socket5, Socket6, Socket7, Socket8|||30 Pin Socket|||30|30|2.54mm
+Switch|EG2355-ND|1||Power Switch|||3 state switch|||3|3|2.54mm
+VariableResistor||1|5k|R2|||SMD Variable Resistor||||3|

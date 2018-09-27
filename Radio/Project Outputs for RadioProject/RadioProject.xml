@@ -1,0 +1,155 @@
+<?xml version = "1.0" ?>
+<?xml:stylesheet type="text/xsl" href="RadioProject.xsl"?>
+<!DOCTYPE GRID [
+  <!ELEMENT GRID (BANDS, COLUMNS, ROWS*)>
+  <!ATTLIST GRID ExportVersion CDATA #REQUIRED>
+  <!ELEMENT BANDS (BAND*)>
+  <!ELEMENT BAND EMPTY>
+  <!ATTLIST BAND Index CDATA #REQUIRED>
+  <!ATTLIST BAND Caption CDATA #IMPLIED>
+  <!ELEMENT COLUMNS (COLUMN*)>
+  <!ELEMENT COLUMN EMPTY>
+  <!ATTLIST COLUMN Name CDATA #REQUIRED>
+  <!ATTLIST COLUMN Caption CDATA #IMPLIED>
+  <!ATTLIST COLUMN Index CDATA #REQUIRED>
+  <!ATTLIST COLUMN BandIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN RowIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN ColIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN Width CDATA #IMPLIED>
+  <!ELEMENT GROUP (GROUP*, ROW*)>
+  <!ATTLIST GROUP GroupText CDATA #IMPLIED>
+  <!ELEMENT ROWS (ROW*)>
+  <!ELEMENT ROW EMPTY>
+  <!ATTLIST ROW Comment CDATA #IMPLIED>
+  <!ATTLIST ROW Digi_Key_Order_Code CDATA #IMPLIED>
+  <!ATTLIST ROW Quantity CDATA #IMPLIED>
+  <!ATTLIST ROW Value CDATA #IMPLIED>
+  <!ATTLIST ROW Designator CDATA #IMPLIED>
+  <!ATTLIST ROW Order_Code CDATA #IMPLIED>
+  <!ATTLIST ROW PartNumber CDATA #IMPLIED>
+  <!ATTLIST ROW Description CDATA #IMPLIED>
+  <!ATTLIST ROW Manufacturer CDATA #IMPLIED>
+  <!ATTLIST ROW Mateing_part CDATA #IMPLIED>
+  <!ATTLIST ROW PinNumber CDATA #IMPLIED>
+  <!ATTLIST ROW Pins CDATA #IMPLIED>
+  <!ATTLIST ROW Pitch CDATA #IMPLIED>
+]>
+<GRID ExportVersion="1.0">
+  <BANDS>
+    <BAND Index="0" Caption=""></BAND>
+  </BANDS>
+  <COLUMNS>
+    <COLUMN Name="Comment" Caption="Comment" Index="0" BandIndex="0" RowIndex="0" ColIndex="0" Width="70"></COLUMN>
+    <COLUMN Name="Digi_Key_Order_Code" Caption="Digi Key Order Code" Index="1" BandIndex="0" RowIndex="0" ColIndex="1" Width="70"></COLUMN>
+    <COLUMN Name="Quantity" Caption="Quantity" Index="2" BandIndex="0" RowIndex="0" ColIndex="2" Width="70"></COLUMN>
+    <COLUMN Name="Value" Caption="Value" Index="3" BandIndex="0" RowIndex="0" ColIndex="3" Width="70"></COLUMN>
+    <COLUMN Name="Designator" Caption="Designator" Index="4" BandIndex="0" RowIndex="0" ColIndex="4" Width="70"></COLUMN>
+    <COLUMN Name="Order_Code" Caption="Order Code" Index="5" BandIndex="0" RowIndex="0" ColIndex="5" Width="70"></COLUMN>
+    <COLUMN Name="PartNumber" Caption="PartNumber" Index="6" BandIndex="0" RowIndex="0" ColIndex="6" Width="70"></COLUMN>
+    <COLUMN Name="Description" Caption="Description" Index="7" BandIndex="0" RowIndex="0" ColIndex="7" Width="78"></COLUMN>
+    <COLUMN Name="Manufacturer" Caption="Manufacturer" Index="8" BandIndex="0" RowIndex="0" ColIndex="8" Width="74"></COLUMN>
+    <COLUMN Name="Mateing_part" Caption="Mateing part" Index="9" BandIndex="0" RowIndex="0" ColIndex="9" Width="72"></COLUMN>
+    <COLUMN Name="PinNumber" Caption="PinNumber" Index="10" BandIndex="0" RowIndex="0" ColIndex="10" Width="70"></COLUMN>
+    <COLUMN Name="Pins" Caption="Pins" Index="11" BandIndex="0" RowIndex="0" ColIndex="11" Width="54"></COLUMN>
+    <COLUMN Name="Pitch" Caption="Pitch" Index="12" BandIndex="0" RowIndex="0" ColIndex="12" Width="60"></COLUMN>
+  </COLUMNS>
+  <ROWS>
+    <ROW Comment="AD8131" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="AMP_1" Order_Code="AD8131AR" PartNumber="AD8131" Description="High Speed Differential Driver" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="8" Pitch=""></ROW>
+    <ROW Comment="AD9215" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="ADC_1" Order_Code="" PartNumber="AD9215" Description="Analog Digital Converter" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="28" Pitch=""></ROW>
+    <ROW Comment="ADF4355" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="SYTH_1" Order_Code="ADF4355-2BCPZ" PartNumber="ADF4355" Description="Sythesizer with integrated VCO" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="33" Pitch=""></ROW>
+    <ROW Comment="ADL5365" Digi_Key_Order_Code="" Quantity="2" Value="" Designator="MIX_1, MIX_2" Order_Code="ADL5365ACPZ-R7" PartNumber="ADL5365" Description="RF Mixer" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="21" Pitch=""></ROW>
+    <ROW Comment="ADR3412" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="VREF_1" Order_Code="ADR3412ARJZ-R2" PartNumber="ADR3412" Description="1.2 Voltage Ref Source" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="6" Pitch=""></ROW>
+    <ROW Comment="Balun" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="B4" Order_Code="" PartNumber="HHM1918A2" Description="SMD Balun" Manufacturer="TDK" Mateing_part="" PinNumber="" Pins="4" Pitch=""></ROW>
+    <ROW Comment="Balun" Digi_Key_Order_Code="" Quantity="2" Value="" Designator="B1, B2" Order_Code="" PartNumber="T16-1-KK81+" Description="SMD Balun" Manufacturer="Mini Circuits" Mateing_part="" PinNumber="" Pins="6" Pitch=""></ROW>
+    <ROW Comment="Balun" Digi_Key_Order_Code="" Quantity="2" Value="" Designator="B3, B5" Order_Code="" PartNumber="MABA-007237-ETC410, &#63;" Description="SMD Balun" Manufacturer="MACOM, &#63;" Mateing_part="" PinNumber="" Pins="5" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="1" Value="100uF" Designator="C118" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="1" Value="220pF" Designator="C203" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="1" Value="330pF" Designator="C119" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="1" Value="33nF" Designator="C129" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="1" Value="4.7pF" Designator="C117" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="14" Value="1uF" Designator="C4, C9, C13, C32, C35, C41, C85, C94, C116, C149, C154, C159, C186, C196" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="0.47uF" Designator="C115, C121" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="1.5nF" Designator="C126, C132" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="184.8pF" Designator="C27, C55" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="1pF" Designator="C77, C202" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="272.3pF" Designator="C24, C53" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="3.54pF" Designator="C23, C51" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="3.5nF" Designator="C101, C102" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="3pF" Designator="C79, C180" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="64.31pF" Designator="C18, C46" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="64.3pF" Designator="C31, C57" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="85.88pF" Designator="C22, C50" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="2" Value="93.57pF" Designator="C19, C48" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="20" Value="1nF" Designator="C7, C12, C16, C34, C37, C69, C70, C91, C96, C99, C138, C153, C158, C164, C165, C185, C193, C198, C199, C200" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="21" Value="10pF" Designator="C59, C68, C73, C75, C76, C81, C82, C83, C130, C131, C135, C142, C145, C148, C150, C167, C171, C173, C175, C177, C178" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="3" Value="0.3pF" Designator="C89, C163, C194" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="3" Value="20pF" Designator="C90, C160, C190" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="4" Value="22pF" Designator="C62, C66, C168, C170" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="4" Value="260.4pF" Designator="C21, C26, C49, C52" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="4" Value="5.67pF" Designator="C20, C28, C47, C54" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="4" Value="560pF" Designator="C67, C72, C172, C174" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="52" Value="100nF" Designator="C1, C2, C5, C6, C10, C11, C14, C15, C17, C25, C29, C30, C33, C36, C38, C39, C40, C43, C45, C56, C58, C60, C61, C65, C71, C74, C84, C88, C97, C114, C125, C127, C128, C133, C134, C139, C140, C141, C144, C146, C147, C151, C152, C157, C162, C169, C176, C188, C189, C191, C192, C197" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="6" Value="1.5pF" Designator="C95, C100, C155, C156, C183, C184" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="7" Value="10uF" Designator="C3, C8, C64, C103, C104, C105, C106" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="7" Value="2.2uF" Designator="C98, C112, C113, C123, C124, C166, C182" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="8" Value="100pF" Designator="C44, C63, C93, C136, C137, C161, C187, C195" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="8" Value="4.7uF" Designator="C78, C107, C108, C109, C110, C111, C122, C179" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Cap1" Digi_Key_Order_Code="" Quantity="9" Value="10nF" Designator="C42, C80, C86, C87, C92, C120, C143, C181, C201" Order_Code="" PartNumber="" Description="SMD Capacitor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="DAC9744" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="DAC_1" Order_Code="AD9744ARZ" PartNumber="AD9744" Description="Digital Analog Converter" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="28" Pitch=""></ROW>
+    <ROW Comment="Ferrit Bead" Digi_Key_Order_Code="" Quantity="2" Value="300Ohm &#64;2MHz" Designator="FB1" Order_Code="" PartNumber="FB20022-4B-RC" Description="Ferrit Bead" Manufacturer="Bourns" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Header1" Digi_Key_Order_Code="M20-9761546-ND" Quantity="6" Value="" Designator="Header1, Header2, Header3, Header5, Header7, Header8" Order_Code="" PartNumber="" Description="29 Pin Header" Manufacturer="" Mateing_part="" PinNumber="30" Pins="30" Pitch="2.54mm"></ROW>
+    <ROW Comment="Header2" Digi_Key_Order_Code="3M156386-48-ND" Quantity="2" Value="" Designator="Header4, Header6" Order_Code="" PartNumber="" Description="48 Pin Header" Manufacturer="" Mateing_part="" PinNumber="48" Pins="48" Pitch="2.54mm"></ROW>
+    <ROW Comment="HMC789ST89E" Digi_Key_Order_Code="" Quantity="3" Value="" Designator="AMP_2, AMP_3, AMP_4" Order_Code="HMC789ST89E" PartNumber="HMC789ST89E" Description="Gain Block MMIC" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="4" Pitch=""></ROW>
+    <ROW Comment="HMC8073" Digi_Key_Order_Code="" Quantity="2" Value="" Designator="DIG_ATT_1, DIG_ATT_2" Order_Code="HMC8073LP3DE" PartNumber="HMC8073" Description="Digital Attenuator" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="17" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="2" Value="0nH" Designator="L2, L13" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="2" Value="1.5nH" Designator="L21, L28" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="2" Value="333.3nH" Designator="L7, L18" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="2" Value="339.2nH" Designator="L4, L16" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="2" Value="7.5nH" Designator="L24, L25" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="2" Value="722.6nH" Designator="L6, L15" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="3" Value="18nH" Designator="L22, L26, L27" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="4" Value="39.78nH" Designator="L1, L10, L11, L20" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="4" Value="450.5nH" Designator="L3, L9, L12, L19" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="" Quantity="4" Value="9.82nH" Designator="L5, L8, L14, L17" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Inductor" Digi_Key_Order_Code="495-6782-1-ND" Quantity="1" Value="1.2uH" Designator="L23" Order_Code="" PartNumber="" Description="SMD Inductor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="LED_Green" Digi_Key_Order_Code="" Quantity="12" Value="" Designator="LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12" Order_Code="" PartNumber="LTST-C171KGKT" Description="Diode" Manufacturer="LITEON" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="LT5538" Digi_Key_Order_Code="" Quantity="2" Value="" Designator="DET_1, DET_2" Order_Code="LT5538IDD&#35;PBF" PartNumber="LT5538" Description="Detector" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="9" Pitch=""></ROW>
+    <ROW Comment="LT8646S" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="SWPS_1" Order_Code="LT8646SEV&#35;PBF" PartNumber="LT8646S" Description="Step-Down Silent Switcher Power Supply" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="38" Pitch=""></ROW>
+    <ROW Comment="LTC6905" Digi_Key_Order_Code="" Quantity="1" Value="" Designator="OSC_1" Order_Code="LTC6905-100" PartNumber="LTC6905-100" Description="Fixed frequency oscillator" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="5" Pitch=""></ROW>
+    <ROW Comment="LTI1965" Digi_Key_Order_Code="" Quantity="4" Value="" Designator="LDO_1, LDO_2, LDO_3, LDO_4" Order_Code="LT1965EDD&#35;PBF" PartNumber="LTI1965" Description="Low Dropout Linear Regulator" Manufacturer="Analog Devices" Mateing_part="" PinNumber="" Pins="9" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="1.75k" Designator="R98" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="100k" Designator="R107" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="17.8k" Designator="R109" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="193K" Designator="R106" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="1M" Designator="R105" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="2k" Designator="R42" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="3.3K" Designator="R111" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="4.7K" Designator="R118" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="65" Designator="R93" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="7.5k" Designator="R108" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="1" Value="800" Designator="R50" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="10" Value="37.4" Designator="R64, R65, R73, R75, R121, R122, R141, R142, R149, R150" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="" Designator="R52, R143" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="1.5k" Designator="R66, R67" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="1.7k" Designator="R57, R139" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="100" Designator="R79, R88" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="110" Designator="R68, R69" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="51" Designator="R51, R132" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="56" Designator="R59, R145" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="2" Value="750" Designator="R61, R62" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="3" Value="150" Designator="R94, R95, R96" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="3" Value="3.16k" Designator="R100, R102, R104" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="37" Value="200" Designator="R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R76, R77, R78, R126, R127, R128, R129, R146, R147, R148" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="39" Value="0" Designator="R1, R19, R20, R21, R22, R23, R24, R41, R43, R44, R45, R46, R47, R48, R49, R53, R54, R55, R70, R71, R72, R110, R112, R114, R115, R116, R117, R120, R123, R124, R125, R130, R131, R133, R134, R135, R137, R138, R144" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="4" Value="0.1" Designator="R89, R90, R91, R92" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="5" Value="10k" Designator="R40, R56, R58, R60, R136" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="5" Value="150.5" Designator="R63, R74, R119, R140, R151" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="8" Value="500" Designator="R80, R81, R82, R83, R84, R85, R86, R87" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Resistor" Digi_Key_Order_Code="" Quantity="9" Value="1k" Designator="R3, R4, R5, R6, R97, R99, R101, R103, R113" Order_Code="" PartNumber="" Description="SMD Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="SMA1" Digi_Key_Order_Code="" Quantity="13" Value="" Designator="SMA1, SMA2, SMA3, SMA4, SMA5, SMA6, SMA7, SMA8, SMA9, SMA10, SMA11, SMA12, SMA13" Order_Code="" PartNumber="CON-SMA-EDGE-S, CON-SMA-EDGE-S, CON-SMA-EDGE-S, CON-SMA-EDGE-S, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;" Description="SMA Female" Manufacturer="RF Solutions Ltd., RF Solutions Ltd., RF Solutions Ltd., RF Solutions Ltd., &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;, &#91;NoValue&#93;" Mateing_part="" PinNumber="" Pins="2" Pitch=""></ROW>
+    <ROW Comment="Socket1" Digi_Key_Order_Code="S7083-ND" Quantity="8" Value="" Designator="Socket1, Socket2, Socket3, Socket4, Socket5, Socket6, Socket7, Socket8" Order_Code="" PartNumber="" Description="30 Pin Socket" Manufacturer="" Mateing_part="" PinNumber="30" Pins="30" Pitch="2.54mm"></ROW>
+    <ROW Comment="Switch" Digi_Key_Order_Code="EG2355-ND" Quantity="1" Value="" Designator="Power Switch" Order_Code="" PartNumber="" Description="3 state switch" Manufacturer="" Mateing_part="" PinNumber="3" Pins="3" Pitch="2.54mm"></ROW>
+    <ROW Comment="VariableResistor" Digi_Key_Order_Code="" Quantity="1" Value="5k" Designator="R2" Order_Code="" PartNumber="" Description="SMD Variable Resistor" Manufacturer="" Mateing_part="" PinNumber="" Pins="3" Pitch=""></ROW>
+    <ROW Comment="DC_Connector" Digi_Key_Order_Code="CP-037A-ND" Quantity="2" Value="" Designator="Conn_1, Conn_2" Order_Code="" PartNumber="" Description="Coaxial DC connector - female" Manufacturer="" Mateing_part="EP501A-ND" PinNumber="" Pins="2" Pitch=""></ROW>
+  </ROWS>
+</GRID>
