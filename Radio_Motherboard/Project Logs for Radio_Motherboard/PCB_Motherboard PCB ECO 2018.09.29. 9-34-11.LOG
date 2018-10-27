@@ -1,0 +1,8 @@
+Change Physical Footprint: Designator=Socket1 Old Footprint=Socket1_L New Footprint=Socket1_L
+Change Physical Footprint: Designator=Socket2 Old Footprint=Socket1_L New Footprint=Socket1_L
+Change Physical Footprint: Designator=Socket3 Old Footprint=Socket1_L New Footprint=Socket1_L
+Change Physical Footprint: Designator=Socket4 Old Footprint=Socket1_L New Footprint=Socket1_L
+Change Physical Footprint: Designator=Socket5 Old Footprint=Socket1_R New Footprint=Socket1_R
+Change Physical Footprint: Designator=Socket6 Old Footprint=Socket1_R New Footprint=Socket1_R
+Change Physical Footprint: Designator=Socket7 Old Footprint=Socket1_R New Footprint=Socket1_R
+Change Physical Footprint: Designator=Socket8 Old Footprint=Socket1_R New Footprint=Socket1_R

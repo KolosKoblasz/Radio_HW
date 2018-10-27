@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=FPGA_POWER Pin=FPGA Power-1
+Change Component Designator: OldDesignator=FPGA Power NewDesignator=Conn_2
+Change Component Designator: OldDesignator=Power Switch NewDesignator=Power Switch1
+Added Component: Designator=Conn_1(DC_Connector)
+Added Component: Designator=R109(0805 SMD Passive)
+Added Pin To Net: NetName=FPGA_POWER Pin=Conn_1-1
+Added Pin To Net: NetName=GND Pin=Conn_1-2
+Added Pin To Net: NetName=DC_IN Pin=Conn_2-1
+Added Pin To Net: NetName=FPGA_IN Pin=NS_1-0
+Added Pin To Net: NetName=LDO_IN Pin=NS_1-0
+Added Pin To Net: NetName=NetC114_2 Pin=R107-1
+Added Pin To Net: NetName=VOUT_6V Pin=R107-2
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component Conn_1 DC_Connector
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component R109 Resistor

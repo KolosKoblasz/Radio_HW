@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Socket8 Old Footprint=Socket3_L New Footprint=Socket3_R
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component Socket7 Socket3

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Socket1 Old Footprint=Socket1 New Footprint=Socket1_L
+Change Component Footprint: Designator=Socket2 Old Footprint=Socket1 New Footprint=Socket1_L
+Change Component Footprint: Designator=Socket3 Old Footprint=Socket1 New Footprint=Socket1_L
+Change Component Footprint: Designator=Socket4 Old Footprint=Socket1 New Footprint=Socket1_L
+Change Component Footprint: Designator=Socket5 Old Footprint=Socket1 New Footprint=Socket1_R
+Change Component Footprint: Designator=Socket6 Old Footprint=Socket1 New Footprint=Socket1_R
+Change Component Footprint: Designator=Socket7 Old Footprint=Socket1 New Footprint=Socket1_R
+Change Component Footprint: Designator=Socket8 Old Footprint=Socket1 New Footprint=Socket1_R

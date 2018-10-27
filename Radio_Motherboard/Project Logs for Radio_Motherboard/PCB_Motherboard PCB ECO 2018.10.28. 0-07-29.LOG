@@ -1,0 +1,9 @@
+Added Component: Designator=NS_?(NetSplit_2)
+Added Component: Designator=R?(0805 SMD Passive)
+Added Pin To Net: NetName=NetC111_1 Pin=NS_?-1
+Added Pin To Net: NetName=FPGA_IN Pin=NS_?-2
+Added Pin To Net: NetName=LDO_IN Pin=NS_?-3
+Added Pin To Net: NetName=NetC114_2 Pin=R?-1
+Added Pin To Net: NetName=VOUT_6V Pin=R?-2
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component NS_? NetSplit
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component R? Resistor
