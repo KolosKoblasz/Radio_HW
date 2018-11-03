@@ -1,9 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Radio_Motherboard.PrjPcb]
+Output: Verilog File
+Type  : Verilog
+From  : Project [Radio_Motherboard.PrjPcb]
+   Generated File[MotherBoard_Interconnect.V]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:08:33 On 2018.09.02.
+Finished Output Generation At 14:59:35 On 2018.11.03.

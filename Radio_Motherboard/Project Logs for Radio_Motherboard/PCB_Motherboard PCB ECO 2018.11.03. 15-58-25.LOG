@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=RXDETECTOR Pin=C102-1
+Removed Pin From Net: NetName=TP_1 Pin=R80-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R80-2
+Removed Pin From Net: NetName=TP_2 Pin=R81-1
+Added Component: Designator=C106(ELKO_CAP)
+Added Component: Designator=R82(0805 SMD Passive)
+Added Component: Designator=R83(0805 SMD Passive)
+Added Component: Designator=R94(0805 SMD Passive)
+Added Component: Designator=R113(0805 SMD Passive)
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=RXDETECTOR Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=3.3V Pin=C103-1
+Added Pin To Net: NetName=GND Pin=C103-2
+Added Pin To Net: NetName=5V_TX Pin=C105-1
+Added Pin To Net: NetName=GND Pin=C105-2
+Added Pin To Net: NetName=NetC102_1 Pin=R80-1
+Added Pin To Net: NetName=FWP_DETECTOR Pin=R80-2
+Added Pin To Net: NetName=NetC103_1 Pin=R81-1
+Added Pin To Net: NetName=TP_1 Pin=R80-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R80-2
+Added Pin To Net: NetName=TP_2 Pin=R81-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R81-2
+Added Pin To Net: NetName=5V_TX Pin=R91-1
+Added Pin To Net: NetName=NetLDO_3_1 Pin=R91-2
+Added Pin To Net: NetName=NetC121_2 Pin=R110-1
+Added Pin To Net: NetName=NetR113_2 Pin=R110-2

@@ -1,5 +1,0 @@
-Added Component: Designator=Conn_2(DC_Connector)
-Added Pin To Net: NetName=DC_IN Pin=Conn_1-1
-Added Pin To Net: NetName=GND Pin=Conn_1-2
-Added Pin To Net: NetName=FPGA_IN Pin=NS_1-0
-Added Pin To Net: NetName=LDO_IN Pin=NS_1-0

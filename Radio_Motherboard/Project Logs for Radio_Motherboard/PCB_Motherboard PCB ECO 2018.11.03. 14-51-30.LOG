@@ -1,0 +1,604 @@
+Added Component: Designator=C104(0805 SMD Passive)
+Added Component: Designator=C106(ELKO_CAP)
+Added Component: Designator=C108(ELKO_CAP)
+Added Component: Designator=R82(0805 SMD Passive)
+Added Component: Designator=R83(0805 SMD Passive)
+Added Component: Designator=R94(0805 SMD Passive)
+Added Component: Designator=R113(0805 SMD Passive)
+Added Pin To Net: NetName=3.3V Pin=C103-1
+Added Pin To Net: NetName=3.3V Pin=LDO_1-3
+Added Pin To Net: NetName=3.3V Pin=3.3V-2
+Added Pin To Net: NetName=3.3V Pin=R92-1
+Added Pin To Net: NetName=3.3V Pin=Socket1-1
+Added Pin To Net: NetName=3.3V Pin=Socket2-7
+Added Pin To Net: NetName=3.3V Pin=Socket2-9
+Added Pin To Net: NetName=3.3V Pin=Socket2-11
+Added Pin To Net: NetName=3.3V Pin=Socket2-23
+Added Pin To Net: NetName=3.3V Pin=Socket2-25
+Added Pin To Net: NetName=3.3V Pin=Socket2-27
+Added Pin To Net: NetName=3.3V Pin=Socket3-1
+Added Pin To Net: NetName=3.3V Pin=Socket3-3
+Added Pin To Net: NetName=3.3V Pin=Socket4-1
+Added Pin To Net: NetName=3.3V Pin=Socket5-1
+Added Pin To Net: NetName=3.3V Pin=Socket6-4
+Added Pin To Net: NetName=3.3V Pin=Socket6-6
+Added Pin To Net: NetName=3.3V Pin=Socket6-8
+Added Pin To Net: NetName=3.3V Pin=Socket6-26
+Added Pin To Net: NetName=3.3V Pin=Socket6-28
+Added Pin To Net: NetName=3.3V Pin=Socket6-30
+Added Pin To Net: NetName=3.3V Pin=Socket7-1
+Added Pin To Net: NetName=3.3V Pin=Socket7-3
+Added Pin To Net: NetName=3.3V Pin=Socket8-1
+Added Pin To Net: NetName=3.3V Pin=Socket8-3
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V_AMP Pin=C109-1
+Added Pin To Net: NetName=5V_AMP Pin=LED12-2
+Added Pin To Net: NetName=5V_AMP Pin=R95-1
+Added Pin To Net: NetName=5V_AMP Pin=Socket4-6
+Added Pin To Net: NetName=5V_AMP Pin=Socket4-8
+Added Pin To Net: NetName=5V_AMP Pin=Socket4-10
+Added Pin To Net: NetName=5V_AMP Pin=Socket8-6
+Added Pin To Net: NetName=5V_AMP Pin=Socket8-8
+Added Pin To Net: NetName=5V_AMP Pin=Socket8-10
+Added Net: Name=5V_AMP
+Added Pin To Net: NetName=5V_RX Pin=C107-1
+Added Pin To Net: NetName=5V_RX Pin=Rx5V-2
+Added Pin To Net: NetName=5V_RX Pin=R93-1
+Added Pin To Net: NetName=5V_RX Pin=Socket3-2
+Added Pin To Net: NetName=5V_RX Pin=Socket3-4
+Added Pin To Net: NetName=5V_RX Pin=Socket5-7
+Added Pin To Net: NetName=5V_RX Pin=Socket5-9
+Added Pin To Net: NetName=5V_RX Pin=Socket7-2
+Added Pin To Net: NetName=5V_RX Pin=Socket7-4
+Added Net: Name=5V_RX
+Added Pin To Net: NetName=5V_TX Pin=C105-1
+Added Pin To Net: NetName=5V_TX Pin=Tx5V-2
+Added Pin To Net: NetName=5V_TX Pin=R91-1
+Added Pin To Net: NetName=5V_TX Pin=Socket1-7
+Added Pin To Net: NetName=5V_TX Pin=Socket1-9
+Added Net: Name=5V_TX
+Added Pin To Net: NetName=19V_IN Pin=C117-1
+Added Pin To Net: NetName=19V_IN Pin=SWPS_1-4
+Added Pin To Net: NetName=19V_IN Pin=SWPS_1-5
+Added Pin To Net: NetName=19V_IN Pin=SWPS_1-6
+Added Net: Name=19V_IN
+Added Pin To Net: NetName=19V Pin=C124-1
+Added Pin To Net: NetName=19V Pin=C125-2
+Added Pin To Net: NetName=19V Pin=C128-2
+Added Pin To Net: NetName=19V Pin=FB2-1
+Added Pin To Net: NetName=19V Pin=R115-1
+Added Pin To Net: NetName=19V Pin=SWPS_1-21
+Added Pin To Net: NetName=19V Pin=SWPS_1-22
+Added Pin To Net: NetName=19V Pin=SWPS_1-23
+Added Net: Name=19V
+Added Pin To Net: NetName=ADC_POWERDOWN Pin=Header7-2
+Added Pin To Net: NetName=ADC_POWERDOWN Pin=Socket6-5
+Added Net: Name=ADC_POWERDOWN
+Added Pin To Net: NetName=DAC_MODE Pin=Header4-6
+Added Pin To Net: NetName=DAC_MODE Pin=Socket2-5
+Added Net: Name=DAC_MODE
+Added Pin To Net: NetName=DAC_SLEEP Pin=Header4-5
+Added Pin To Net: NetName=DAC_SLEEP Pin=Socket2-3
+Added Net: Name=DAC_SLEEP
+Added Pin To Net: NetName=DC_IN Pin=Power In-1
+Added Pin To Net: NetName=DC_IN Pin=R116-1
+Added Net: Name=DC_IN
+Added Pin To Net: NetName=FB Pin=C118-1
+Added Pin To Net: NetName=FB Pin=R109-1
+Added Pin To Net: NetName=FB Pin=R111-1
+Added Pin To Net: NetName=FB Pin=SWPS_1-32
+Added Net: Name=FB
+Added Pin To Net: NetName=FPGA_IN Pin=C116-2
+Added Pin To Net: NetName=FPGA_IN Pin=FB1-2
+Added Pin To Net: NetName=FPGA_IN Pin=6V-2
+Added Pin To Net: NetName=FPGA_IN Pin=R106-2
+Added Pin To Net: NetName=FPGA_IN Pin=R112-1
+Added Net: Name=FPGA_IN
+Added Pin To Net: NetName=FPGA_POWER Pin=FPGA Power-1
+Added Pin To Net: NetName=FPGA_POWER Pin=R106-1
+Added Net: Name=FPGA_POWER
+Added Pin To Net: NetName=FWP_DETECTOR Pin=Header5-4
+Added Pin To Net: NetName=FWP_DETECTOR Pin=R80-2
+Added Net: Name=FWP_DETECTOR
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-2
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C105-2
+Added Pin To Net: NetName=GND Pin=C103-2
+Added Pin To Net: NetName=GND Pin=C107-2
+Added Pin To Net: NetName=GND Pin=C105-2
+Added Pin To Net: NetName=GND Pin=C109-2
+Added Pin To Net: NetName=GND Pin=C110-1
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=GND Pin=C112-1
+Added Pin To Net: NetName=GND Pin=C113-1
+Added Pin To Net: NetName=GND Pin=C114-2
+Added Pin To Net: NetName=GND Pin=C115-1
+Added Pin To Net: NetName=GND Pin=C116-1
+Added Pin To Net: NetName=GND Pin=C117-2
+Added Pin To Net: NetName=GND Pin=C119-2
+Added Pin To Net: NetName=GND Pin=C120-2
+Added Pin To Net: NetName=GND Pin=C121-1
+Added Pin To Net: NetName=GND Pin=C122-2
+Added Pin To Net: NetName=GND Pin=C123-1
+Added Pin To Net: NetName=GND Pin=C124-2
+Added Pin To Net: NetName=GND Pin=C125-1
+Added Pin To Net: NetName=GND Pin=C126-1
+Added Pin To Net: NetName=GND Pin=C127-2
+Added Pin To Net: NetName=GND Pin=C128-1
+Added Pin To Net: NetName=GND Pin=FPGA Power-2
+Added Pin To Net: NetName=GND Pin=Power In-2
+Added Pin To Net: NetName=GND Pin=Header4-1
+Added Pin To Net: NetName=GND Pin=Header4-3
+Added Pin To Net: NetName=GND Pin=Header4-7
+Added Pin To Net: NetName=GND Pin=Header4-13
+Added Pin To Net: NetName=GND Pin=Header4-23
+Added Pin To Net: NetName=GND Pin=Header4-37
+Added Pin To Net: NetName=GND Pin=Header4-47
+Added Pin To Net: NetName=GND Pin=Header5-1
+Added Pin To Net: NetName=GND Pin=Header5-3
+Added Pin To Net: NetName=GND Pin=Header5-5
+Added Pin To Net: NetName=GND Pin=GPIO-1
+Added Pin To Net: NetName=GND Pin=GPIO-3
+Added Pin To Net: NetName=GND Pin=GPIO-5
+Added Pin To Net: NetName=GND Pin=GPIO-7
+Added Pin To Net: NetName=GND Pin=GPIO-9
+Added Pin To Net: NetName=GND Pin=GPIO-11
+Added Pin To Net: NetName=GND Pin=GPIO-13
+Added Pin To Net: NetName=GND Pin=GPIO-15
+Added Pin To Net: NetName=GND Pin=GPIO-17
+Added Pin To Net: NetName=GND Pin=GPIO-19
+Added Pin To Net: NetName=GND Pin=GPIO-21
+Added Pin To Net: NetName=GND Pin=GPIO-23
+Added Pin To Net: NetName=GND Pin=GPIO-25
+Added Pin To Net: NetName=GND Pin=GPIO-27
+Added Pin To Net: NetName=GND Pin=GPIO-29
+Added Pin To Net: NetName=GND Pin=Header7-12
+Added Pin To Net: NetName=GND Pin=Header7-13
+Added Pin To Net: NetName=GND Pin=Header7-24
+Added Pin To Net: NetName=GND Pin=Header7-25
+Added Pin To Net: NetName=GND Pin=Header7-36
+Added Pin To Net: NetName=GND Pin=Header7-37
+Added Pin To Net: NetName=GND Pin=Header7-48
+Added Pin To Net: NetName=GND Pin=LDO_1-4
+Added Pin To Net: NetName=GND Pin=LDO_1-5
+Added Pin To Net: NetName=GND Pin=LDO_1-9
+Added Pin To Net: NetName=GND Pin=LDO_2-4
+Added Pin To Net: NetName=GND Pin=LDO_2-5
+Added Pin To Net: NetName=GND Pin=LDO_2-9
+Added Pin To Net: NetName=GND Pin=LDO_3-4
+Added Pin To Net: NetName=GND Pin=LDO_3-5
+Added Pin To Net: NetName=GND Pin=LDO_3-9
+Added Pin To Net: NetName=GND Pin=LDO_4-4
+Added Pin To Net: NetName=GND Pin=LDO_4-5
+Added Pin To Net: NetName=GND Pin=LDO_4-9
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=LED4-1
+Added Pin To Net: NetName=GND Pin=LED5-1
+Added Pin To Net: NetName=GND Pin=LED6-1
+Added Pin To Net: NetName=GND Pin=LED7-1
+Added Pin To Net: NetName=GND Pin=LED8-1
+Added Pin To Net: NetName=GND Pin=R96-2
+Added Pin To Net: NetName=GND Pin=R97-2
+Added Pin To Net: NetName=GND Pin=R98-2
+Added Pin To Net: NetName=GND Pin=R99-2
+Added Pin To Net: NetName=GND Pin=R101-1
+Added Pin To Net: NetName=GND Pin=R103-1
+Added Pin To Net: NetName=GND Pin=R105-1
+Added Pin To Net: NetName=GND Pin=R107-2
+Added Pin To Net: NetName=GND Pin=R111-2
+Added Pin To Net: NetName=GND Pin=R114-2
+Added Pin To Net: NetName=GND Pin=Trigger Out-2
+Added Pin To Net: NetName=GND Pin=Trigger Out-2
+Added Pin To Net: NetName=GND Pin=Trigger Out-2
+Added Pin To Net: NetName=GND Pin=Trigger Out-2
+Added Pin To Net: NetName=GND Pin=Socket1-3
+Added Pin To Net: NetName=GND Pin=Socket1-5
+Added Pin To Net: NetName=GND Pin=Socket2-13
+Added Pin To Net: NetName=GND Pin=Socket2-15
+Added Pin To Net: NetName=GND Pin=Socket2-17
+Added Pin To Net: NetName=GND Pin=Socket2-19
+Added Pin To Net: NetName=GND Pin=Socket2-21
+Added Pin To Net: NetName=GND Pin=Socket3-5
+Added Pin To Net: NetName=GND Pin=Socket3-7
+Added Pin To Net: NetName=GND Pin=Socket4-5
+Added Pin To Net: NetName=GND Pin=Socket4-7
+Added Pin To Net: NetName=GND Pin=Socket4-9
+Added Pin To Net: NetName=GND Pin=Socket5-3
+Added Pin To Net: NetName=GND Pin=Socket5-5
+Added Pin To Net: NetName=GND Pin=Socket6-12
+Added Pin To Net: NetName=GND Pin=Socket6-14
+Added Pin To Net: NetName=GND Pin=Socket6-16
+Added Pin To Net: NetName=GND Pin=Socket6-18
+Added Pin To Net: NetName=GND Pin=Socket6-20
+Added Pin To Net: NetName=GND Pin=Socket6-22
+Added Pin To Net: NetName=GND Pin=Socket7-5
+Added Pin To Net: NetName=GND Pin=Socket7-7
+Added Pin To Net: NetName=GND Pin=Socket8-5
+Added Pin To Net: NetName=GND Pin=Socket8-7
+Added Pin To Net: NetName=GND Pin=Socket8-9
+Added Pin To Net: NetName=GND Pin=SWPS_1-8
+Added Pin To Net: NetName=GND Pin=SWPS_1-9
+Added Pin To Net: NetName=GND Pin=SWPS_1-10
+Added Pin To Net: NetName=GND Pin=SWPS_1-17
+Added Pin To Net: NetName=GND Pin=SWPS_1-18
+Added Pin To Net: NetName=GND Pin=SWPS_1-19
+Added Pin To Net: NetName=GND Pin=SWPS_1-33
+Added Net: Name=GND
+Added Pin To Net: NetName=H_ADC_CLK Pin=Header7-39
+Added Pin To Net: NetName=H_ADC_CLK Pin=Socket6-29
+Added Net: Name=H_ADC_CLK
+Added Pin To Net: NetName=H_ADC_D0 Pin=Header7-38
+Added Pin To Net: NetName=H_ADC_D0 Pin=Socket6-27
+Added Net: Name=H_ADC_D0
+Added Pin To Net: NetName=H_ADC_D1 Pin=Header7-35
+Added Pin To Net: NetName=H_ADC_D1 Pin=Socket6-25
+Added Net: Name=H_ADC_D1
+Added Pin To Net: NetName=H_ADC_D2 Pin=Header7-34
+Added Pin To Net: NetName=H_ADC_D2 Pin=Socket6-23
+Added Net: Name=H_ADC_D2
+Added Pin To Net: NetName=H_ADC_D3 Pin=Header7-33
+Added Pin To Net: NetName=H_ADC_D3 Pin=Socket6-21
+Added Net: Name=H_ADC_D3
+Added Pin To Net: NetName=H_ADC_D4 Pin=Header7-32
+Added Pin To Net: NetName=H_ADC_D4 Pin=Socket6-19
+Added Net: Name=H_ADC_D4
+Added Pin To Net: NetName=H_ADC_D5 Pin=Header7-31
+Added Pin To Net: NetName=H_ADC_D5 Pin=Socket6-17
+Added Net: Name=H_ADC_D5
+Added Pin To Net: NetName=H_ADC_D6 Pin=Header7-30
+Added Pin To Net: NetName=H_ADC_D6 Pin=Socket6-15
+Added Net: Name=H_ADC_D6
+Added Pin To Net: NetName=H_ADC_D7 Pin=Header7-29
+Added Pin To Net: NetName=H_ADC_D7 Pin=Socket6-13
+Added Net: Name=H_ADC_D7
+Added Pin To Net: NetName=H_ADC_D8 Pin=Header7-28
+Added Pin To Net: NetName=H_ADC_D8 Pin=Socket6-11
+Added Net: Name=H_ADC_D8
+Added Pin To Net: NetName=H_ADC_D9 Pin=Header7-27
+Added Pin To Net: NetName=H_ADC_D9 Pin=Socket6-9
+Added Net: Name=H_ADC_D9
+Added Pin To Net: NetName=H_ADC_D10 Pin=Header7-26
+Added Pin To Net: NetName=H_ADC_D10 Pin=Socket6-7
+Added Net: Name=H_ADC_D10
+Added Pin To Net: NetName=H_ADC_OR Pin=Header7-3
+Added Pin To Net: NetName=H_ADC_OR Pin=Socket6-3
+Added Net: Name=H_ADC_OR
+Added Pin To Net: NetName=H_DAC_CLOCK Pin=Header4-32
+Added Pin To Net: NetName=H_DAC_CLOCK Pin=Socket2-2
+Added Net: Name=H_DAC_CLOCK
+Added Pin To Net: NetName=H_DAC_DB0 Pin=Header4-22
+Added Pin To Net: NetName=H_DAC_DB0 Pin=Socket2-30
+Added Net: Name=H_DAC_DB0
+Added Pin To Net: NetName=H_DAC_DB1 Pin=Header4-21
+Added Pin To Net: NetName=H_DAC_DB1 Pin=Socket2-28
+Added Net: Name=H_DAC_DB1
+Added Pin To Net: NetName=H_DAC_DB2 Pin=Header4-20
+Added Pin To Net: NetName=H_DAC_DB2 Pin=Socket2-26
+Added Net: Name=H_DAC_DB2
+Added Pin To Net: NetName=H_DAC_DB3 Pin=Header4-19
+Added Pin To Net: NetName=H_DAC_DB3 Pin=Socket2-24
+Added Net: Name=H_DAC_DB3
+Added Pin To Net: NetName=H_DAC_DB4 Pin=Header4-18
+Added Pin To Net: NetName=H_DAC_DB4 Pin=Socket2-22
+Added Net: Name=H_DAC_DB4
+Added Pin To Net: NetName=H_DAC_DB5 Pin=Header4-17
+Added Pin To Net: NetName=H_DAC_DB5 Pin=Socket2-20
+Added Net: Name=H_DAC_DB5
+Added Pin To Net: NetName=H_DAC_DB6 Pin=Header4-16
+Added Pin To Net: NetName=H_DAC_DB6 Pin=Socket2-18
+Added Net: Name=H_DAC_DB6
+Added Pin To Net: NetName=H_DAC_DB7 Pin=Header4-15
+Added Pin To Net: NetName=H_DAC_DB7 Pin=Socket2-16
+Added Net: Name=H_DAC_DB7
+Added Pin To Net: NetName=H_DAC_DB8 Pin=Header4-14
+Added Pin To Net: NetName=H_DAC_DB8 Pin=Socket2-14
+Added Net: Name=H_DAC_DB8
+Added Pin To Net: NetName=H_DAC_DB9 Pin=Header4-12
+Added Pin To Net: NetName=H_DAC_DB9 Pin=Socket2-12
+Added Net: Name=H_DAC_DB9
+Added Pin To Net: NetName=H_DAC_DB10 Pin=Header4-11
+Added Pin To Net: NetName=H_DAC_DB10 Pin=Socket2-10
+Added Net: Name=H_DAC_DB10
+Added Pin To Net: NetName=H_DAC_DB11 Pin=Header4-10
+Added Pin To Net: NetName=H_DAC_DB11 Pin=Socket2-8
+Added Net: Name=H_DAC_DB11
+Added Pin To Net: NetName=H_DAC_DB12 Pin=Header4-9
+Added Pin To Net: NetName=H_DAC_DB12 Pin=Socket2-6
+Added Net: Name=H_DAC_DB12
+Added Pin To Net: NetName=H_DAC_DB13 Pin=Header4-8
+Added Pin To Net: NetName=H_DAC_DB13 Pin=Socket2-4
+Added Net: Name=H_DAC_DB13
+Added Pin To Net: NetName=INPUTDETECTOR Pin=C105-1
+Added Pin To Net: NetName=INPUTDETECTOR Pin=Header5-2
+Added Pin To Net: NetName=INPUTDETECTOR Pin=R91-1
+Added Net: Name=INPUTDETECTOR
+Added Pin To Net: NetName=LDO_IN Pin=C110-2
+Added Pin To Net: NetName=LDO_IN Pin=C111-2
+Added Pin To Net: NetName=LDO_IN Pin=C112-2
+Added Pin To Net: NetName=LDO_IN Pin=C113-2
+Added Pin To Net: NetName=LDO_IN Pin=C114-1
+Added Pin To Net: NetName=LDO_IN Pin=C115-2
+Added Pin To Net: NetName=LDO_IN Pin=FB1-1
+Added Pin To Net: NetName=LDO_IN Pin=LDO_1-7
+Added Pin To Net: NetName=LDO_IN Pin=LDO_1-8
+Added Pin To Net: NetName=LDO_IN Pin=LDO_2-7
+Added Pin To Net: NetName=LDO_IN Pin=LDO_2-8
+Added Pin To Net: NetName=LDO_IN Pin=LDO_3-7
+Added Pin To Net: NetName=LDO_IN Pin=LDO_3-8
+Added Pin To Net: NetName=LDO_IN Pin=LDO_4-7
+Added Pin To Net: NetName=LDO_IN Pin=LDO_4-8
+Added Net: Name=LDO_IN
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=NetC102_1 Pin=R80-1
+Added Pin To Net: NetName=NetC102_1 Pin=Socket4-2
+Added Net: Name=NetC102_1
+Added Pin To Net: NetName=NetC103_1 Pin=C103-1
+Added Pin To Net: NetName=NetC103_1 Pin=R81-1
+Added Pin To Net: NetName=NetC103_1 Pin=Socket4-4
+Added Net: Name=NetC103_1
+Added Pin To Net: NetName=NetC121_2 Pin=C121-2
+Added Pin To Net: NetName=NetC121_2 Pin=R110-1
+Added Net: Name=NetC121_2
+Added Pin To Net: NetName=NetC123_2 Pin=C123-2
+Added Pin To Net: NetName=NetC123_2 Pin=SWPS_1-29
+Added Net: Name=NetC123_2
+Added Pin To Net: NetName=NetC126_2 Pin=C126-2
+Added Pin To Net: NetName=NetC126_2 Pin=C127-1
+Added Pin To Net: NetName=NetC126_2 Pin=FB2-2
+Added Pin To Net: NetName=NetC126_2 Pin=Power Switch-2
+Added Net: Name=NetC126_2
+Added Pin To Net: NetName=NetHeader4_34 Pin=Header4-34
+Added Net: Name=NetHeader4_34
+Added Pin To Net: NetName=NetLDO_1_1 Pin=LDO_1-1
+Added Pin To Net: NetName=NetLDO_1_1 Pin=LDO_1-2
+Added Pin To Net: NetName=NetLDO_1_1 Pin=R92-2
+Added Net: Name=NetLDO_1_1
+Added Pin To Net: NetName=NetLDO_2_1 Pin=LDO_2-1
+Added Pin To Net: NetName=NetLDO_2_1 Pin=LDO_2-2
+Added Pin To Net: NetName=NetLDO_2_1 Pin=R93-2
+Added Pin To Net: NetName=NetLDO_2_1 Pin=R100-2
+Added Net: Name=NetLDO_2_1
+Added Pin To Net: NetName=NetLDO_2_3 Pin=LDO_2-3
+Added Pin To Net: NetName=NetLDO_2_3 Pin=R100-1
+Added Pin To Net: NetName=NetLDO_2_3 Pin=R101-2
+Added Net: Name=NetLDO_2_3
+Added Pin To Net: NetName=NetLDO_3_1 Pin=LDO_3-1
+Added Pin To Net: NetName=NetLDO_3_1 Pin=LDO_3-2
+Added Pin To Net: NetName=NetLDO_3_1 Pin=R91-2
+Added Pin To Net: NetName=NetLDO_3_1 Pin=R102-2
+Added Net: Name=NetLDO_3_1
+Added Pin To Net: NetName=NetLDO_3_3 Pin=LDO_3-3
+Added Pin To Net: NetName=NetLDO_3_3 Pin=R102-1
+Added Pin To Net: NetName=NetLDO_3_3 Pin=R103-2
+Added Net: Name=NetLDO_3_3
+Added Pin To Net: NetName=NetLDO_4_1 Pin=LDO_4-1
+Added Pin To Net: NetName=NetLDO_4_1 Pin=LDO_4-2
+Added Pin To Net: NetName=NetLDO_4_1 Pin=R95-2
+Added Pin To Net: NetName=NetLDO_4_1 Pin=R104-2
+Added Net: Name=NetLDO_4_1
+Added Pin To Net: NetName=NetLDO_4_3 Pin=LDO_4-3
+Added Pin To Net: NetName=NetLDO_4_3 Pin=R104-1
+Added Pin To Net: NetName=NetLDO_4_3 Pin=R105-2
+Added Net: Name=NetLDO_4_3
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R80-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R81-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R84-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R85-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R86-2
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R87-2
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R88-2
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=R89-2
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_1 Pin=3.3V-1
+Added Pin To Net: NetName=NetLED9_1 Pin=R96-1
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetLED10_1 Pin=Rx5V-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R97-1
+Added Net: Name=NetLED10_1
+Added Pin To Net: NetName=NetLED11_1 Pin=Tx5V-1
+Added Pin To Net: NetName=NetLED11_1 Pin=R98-1
+Added Net: Name=NetLED11_1
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_1 Pin=R99-1
+Added Net: Name=NetLED12_1
+Added Pin To Net: NetName=NetLED13_1 Pin=6V-1
+Added Pin To Net: NetName=NetLED13_1 Pin=R107-1
+Added Net: Name=NetLED13_1
+Added Pin To Net: NetName=NetPower Switch1_1 Pin=Power Switch-1
+Added Pin To Net: NetName=NetPower Switch1_1 Pin=R116-2
+Added Net: Name=NetPower Switch1_1
+Added Pin To Net: NetName=NetR79_2 Pin=R79-2
+Added Pin To Net: NetName=NetR79_2 Pin=Socket3-9
+Added Net: Name=NetR79_2
+Added Pin To Net: NetName=NetR90_2 Pin=R90-2
+Added Pin To Net: NetName=NetR90_2 Pin=Socket7-9
+Added Net: Name=NetR90_2
+Added Pin To Net: NetName=NetR91_2 Pin=R91-2
+Added Pin To Net: NetName=NetR91_2 Pin=Socket8-2
+Added Net: Name=NetR91_2
+Added Pin To Net: NetName=NetR109_2 Pin=R109-2
+Added Pin To Net: NetName=NetR109_2 Pin=R110-1
+Added Net: Name=NetR109_2
+Added Pin To Net: NetName=NetR113_2 Pin=R110-2
+Added Pin To Net: NetName=NetR113_2 Pin=SWPS_1-30
+Added Net: Name=NetR113_2
+Added Pin To Net: NetName=NetR114_1 Pin=R114-1
+Added Pin To Net: NetName=NetR114_1 Pin=SWPS_1-26
+Added Net: Name=NetR114_1
+Added Pin To Net: NetName=NetR115_2 Pin=R115-2
+Added Pin To Net: NetName=NetR115_2 Pin=SWPS_1-25
+Added Net: Name=NetR115_2
+Added Pin To Net: NetName=PAM_BIAS Pin=Header4-43
+Added Pin To Net: NetName=PAM_BIAS Pin=Socket4-3
+Added Net: Name=PAM_BIAS
+Added Pin To Net: NetName=PG Pin=LDO_1-6
+Added Pin To Net: NetName=PG Pin=LDO_2-6
+Added Pin To Net: NetName=PG Pin=LDO_3-6
+Added Pin To Net: NetName=PG Pin=LDO_4-6
+Added Pin To Net: NetName=PG Pin=R108-1
+Added Pin To Net: NetName=PG Pin=SWPS_1-31
+Added Net: Name=PG
+Added Pin To Net: NetName=RWP_DETECTOR Pin=Header5-6
+Added Pin To Net: NetName=RWP_DETECTOR Pin=R81-2
+Added Net: Name=RWP_DETECTOR
+Added Pin To Net: NetName=RX_ATT_LE Pin=Header7-46
+Added Pin To Net: NetName=RX_ATT_LE Pin=Socket7-10
+Added Net: Name=RX_ATT_LE
+Added Pin To Net: NetName=RX_ATT_SCLK Pin=Header7-44
+Added Pin To Net: NetName=RX_ATT_SCLK Pin=Socket7-6
+Added Net: Name=RX_ATT_SCLK
+Added Pin To Net: NetName=RX_ATT_SI Pin=Header7-45
+Added Pin To Net: NetName=RX_ATT_SI Pin=Socket7-8
+Added Net: Name=RX_ATT_SI
+Added Pin To Net: NetName=RX_AUX_REF_CLK Pin=Header7-4
+Added Pin To Net: NetName=RX_AUX_REF_CLK Pin=Socket5-2
+Added Net: Name=RX_AUX_REF_CLK
+Added Pin To Net: NetName=RX_SYTH_DATA Pin=Header7-7
+Added Pin To Net: NetName=RX_SYTH_DATA Pin=Socket5-8
+Added Net: Name=RX_SYTH_DATA
+Added Pin To Net: NetName=RX_SYTH_LE Pin=Header7-8
+Added Pin To Net: NetName=RX_SYTH_LE Pin=Socket5-10
+Added Net: Name=RX_SYTH_LE
+Added Pin To Net: NetName=RX_SYTH_MUX Pin=Header7-5
+Added Pin To Net: NetName=RX_SYTH_MUX Pin=Socket5-4
+Added Net: Name=RX_SYTH_MUX
+Added Pin To Net: NetName=RX_SYTH_SCLK Pin=Header7-6
+Added Pin To Net: NetName=RX_SYTH_SCLK Pin=Socket5-6
+Added Net: Name=RX_SYTH_SCLK
+Added Pin To Net: NetName=RXDETECTOR Pin=C102-1
+Added Pin To Net: NetName=RXDETECTOR Pin=Header4-27
+Added Pin To Net: NetName=RXDETECTOR Pin=R90-1
+Added Net: Name=RXDETECTOR
+Added Pin To Net: NetName=SPREADSPECTRUM Pin=SWPS_1-2
+Added Pin To Net: NetName=SPREADSPECTRUM Pin=SWPS_1-28
+Added Net: Name=SPREADSPECTRUM
+Added Pin To Net: NetName=TP_1 Pin=Header4-42
+Added Pin To Net: NetName=TP_1 Pin=GPIO-2
+Added Pin To Net: NetName=TP_1 Pin=R80-1
+Added Pin To Net: NetName=TP_1 Pin=Trigger Out-1
+Added Net: Name=TP_1
+Added Pin To Net: NetName=TP_2 Pin=Header4-41
+Added Pin To Net: NetName=TP_2 Pin=GPIO-6
+Added Pin To Net: NetName=TP_2 Pin=R81-1
+Added Net: Name=TP_2
+Added Pin To Net: NetName=TP_3 Pin=Header4-40
+Added Pin To Net: NetName=TP_3 Pin=GPIO-10
+Added Pin To Net: NetName=TP_3 Pin=R84-1
+Added Net: Name=TP_3
+Added Pin To Net: NetName=TP_4 Pin=Header4-39
+Added Pin To Net: NetName=TP_4 Pin=GPIO-14
+Added Pin To Net: NetName=TP_4 Pin=R85-1
+Added Net: Name=TP_4
+Added Pin To Net: NetName=TP_5 Pin=GPIO-18
+Added Pin To Net: NetName=TP_5 Pin=Header7-15
+Added Pin To Net: NetName=TP_5 Pin=R86-1
+Added Net: Name=TP_5
+Added Pin To Net: NetName=TP_6 Pin=GPIO-22
+Added Pin To Net: NetName=TP_6 Pin=Header7-16
+Added Pin To Net: NetName=TP_6 Pin=R87-1
+Added Net: Name=TP_6
+Added Pin To Net: NetName=TP_7 Pin=GPIO-26
+Added Pin To Net: NetName=TP_7 Pin=Header7-17
+Added Pin To Net: NetName=TP_7 Pin=R88-1
+Added Net: Name=TP_7
+Added Pin To Net: NetName=TP_8 Pin=GPIO-30
+Added Pin To Net: NetName=TP_8 Pin=Header7-18
+Added Pin To Net: NetName=TP_8 Pin=R89-1
+Added Net: Name=TP_8
+Added Pin To Net: NetName=TX_ATT_LE Pin=Header4-46
+Added Pin To Net: NetName=TX_ATT_LE Pin=Socket3-10
+Added Net: Name=TX_ATT_LE
+Added Pin To Net: NetName=TX_ATT_SCLK Pin=Header4-44
+Added Pin To Net: NetName=TX_ATT_SCLK Pin=Socket3-6
+Added Net: Name=TX_ATT_SCLK
+Added Pin To Net: NetName=TX_ATT_SI Pin=Header4-45
+Added Pin To Net: NetName=TX_ATT_SI Pin=Socket3-8
+Added Net: Name=TX_ATT_SI
+Added Pin To Net: NetName=TX_AUX_REF_CLK Pin=Header4-29
+Added Pin To Net: NetName=TX_AUX_REF_CLK Pin=Socket1-2
+Added Net: Name=TX_AUX_REF_CLK
+Added Pin To Net: NetName=TX_SYTH_DATA Pin=Header4-2
+Added Pin To Net: NetName=TX_SYTH_DATA Pin=Socket1-8
+Added Net: Name=TX_SYTH_DATA
+Added Pin To Net: NetName=TX_SYTH_LE Pin=Header4-4
+Added Pin To Net: NetName=TX_SYTH_LE Pin=Socket1-10
+Added Net: Name=TX_SYTH_LE
+Added Pin To Net: NetName=TX_SYTH_MUX Pin=Header4-28
+Added Pin To Net: NetName=TX_SYTH_MUX Pin=Socket1-4
+Added Net: Name=TX_SYTH_MUX
+Added Pin To Net: NetName=TX_SYTH_SCLK Pin=Header4-26
+Added Pin To Net: NetName=TX_SYTH_SCLK Pin=Socket1-6
+Added Net: Name=TX_SYTH_SCLK
+Added Pin To Net: NetName=TXDETECTOR Pin=C101-1
+Added Pin To Net: NetName=TXDETECTOR Pin=Header4-31
+Added Pin To Net: NetName=TXDETECTOR Pin=R79-1
+Added Net: Name=TXDETECTOR
+Added Pin To Net: NetName=VOUT_6V Pin=C118-2
+Added Pin To Net: NetName=VOUT_6V Pin=C119-1
+Added Pin To Net: NetName=VOUT_6V Pin=C120-1
+Added Pin To Net: NetName=VOUT_6V Pin=C122-1
+Added Pin To Net: NetName=VOUT_6V Pin=L23-1
+Added Pin To Net: NetName=VOUT_6V Pin=R108-2
+Added Pin To Net: NetName=VOUT_6V Pin=R110-2
+Added Pin To Net: NetName=VOUT_6V Pin=R112-2
+Added Pin To Net: NetName=VOUT_6V Pin=SWPS_1-1
+Added Net: Name=VOUT_6V
+Added Pin To Net: NetName=VOUT_SW Pin=L23-2
+Added Pin To Net: NetName=VOUT_SW Pin=SWPS_1-12
+Added Pin To Net: NetName=VOUT_SW Pin=SWPS_1-13
+Added Pin To Net: NetName=VOUT_SW Pin=SWPS_1-14
+Added Pin To Net: NetName=VOUT_SW Pin=SWPS_1-15
+Added Pin To Net: NetName=VOUT_SW Pin=SWPS_1-16
+Added Net: Name=VOUT_SW
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component C104 Cap1
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R82 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R83 Resistor
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component R113 Resistor
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_CLK
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D0
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D1
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D2
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D3
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D4
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D5
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D6
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D7
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D8
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D9
+Added Member To Class: ClassName=ADC_DataBus Member=Wire H_ADC_D10
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_CLOCK
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB0
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB1
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB2
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB3
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB4
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB5
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB6
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB7
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB8
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB9
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB10
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB11
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB12
+Added Member To Class: ClassName=DAC_DataBus Member=Wire H_DAC_DB13
+Added Room: Name=MotherBoard_Interconnect
+Added Room: Name=MotherBoard_PowerSupply
