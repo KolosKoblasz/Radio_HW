@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=3.3V Pin=3.3V-2
+Removed Pin From Net: NetName=5V_AMP Pin=Amp5V-2
+Removed Pin From Net: NetName=3.3V Pin=C106-1
+Removed Pin From Net: NetName=5V_RX Pin=C107-1
+Removed Pin From Net: NetName=5V_TX Pin=C108-1
+Removed Pin From Net: NetName=5V_AMP Pin=C109-1
+Removed Pin From Net: NetName=5V_RX Pin=Rx5V-2
+Removed Pin From Net: NetName=5V_TX Pin=Tx5V-2
+Added Pin To Net: NetName=NetLDO_1_1 Pin=C106-1
+Added Pin To Net: NetName=NetLDO_2_1 Pin=C107-1
+Added Pin To Net: NetName=NetLDO_3_1 Pin=C108-1
+Added Pin To Net: NetName=NetLDO_4_1 Pin=C109-1
+Added Pin To Net: NetName=NetLDO_1_1 Pin=3.3V-2
+Added Pin To Net: NetName=NetLDO_2_1 Pin=Rx5V-2
+Added Pin To Net: NetName=NetLDO_3_1 Pin=Tx5V-2
+Added Pin To Net: NetName=NetLDO_4_1 Pin=Amp5V-2
+Change Net Name : Old Net Name=NetLDO_1_1 New Net Name=NetC106_1
+Change Net Name : Old Net Name=NetLDO_2_1 New Net Name=NetC107_1
+Change Net Name : Old Net Name=NetLDO_3_1 New Net Name=NetC108_1
+Change Net Name : Old Net Name=NetLDO_4_1 New Net Name=NetC109_1

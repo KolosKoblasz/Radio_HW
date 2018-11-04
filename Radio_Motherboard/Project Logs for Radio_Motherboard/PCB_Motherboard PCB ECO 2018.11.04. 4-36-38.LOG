@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DAC_SLEEP Pin=Header4-5
+Removed Pin From Net: NetName=DAC_MODE Pin=Header4-6
+Added Pin To Net: NetName=DAC_MODE Pin=Header4-5
+Added Pin To Net: NetName=DAC_SLEEP Pin=Header4-6

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V_RX Pin=Socket3-2
+Removed Pin From Net: NetName=5V_RX Pin=Socket3-4
+Added Pin To Net: NetName=5V_TX Pin=Socket3-2
+Added Pin To Net: NetName=5V_TX Pin=Socket3-4

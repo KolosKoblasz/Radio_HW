@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TX_ATT_SCLK Pin=Header4-44
+Removed Pin From Net: NetName=TX_ATT_LE Pin=Header4-46
+Added Pin To Net: NetName=TX_ATT_LE Pin=Header4-44
+Added Pin To Net: NetName=TX_ATT_SCLK Pin=Header4-46

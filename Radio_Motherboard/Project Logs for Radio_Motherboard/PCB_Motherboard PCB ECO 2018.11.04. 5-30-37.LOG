@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=RX_AUX_REF_CLK New Net Name=RX_SYTH_LE
+Change Net Name : Old Net Name=RX_SYTH_DATA New Net Name=RX_SYTH_MUX
+Change Net Name : Old Net Name=RX_SYTH_LE New Net Name=RX_AUX_REF_CLK
+Change Net Name : Old Net Name=RX_SYTH_MUX New Net Name=RX_SYTH_DATA

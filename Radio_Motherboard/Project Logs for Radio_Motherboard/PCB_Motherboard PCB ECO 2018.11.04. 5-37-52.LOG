@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TX_SYTH_DATA Pin=Header4-2
+Removed Pin From Net: NetName=TX_SYTH_LE Pin=Header4-4
+Removed Pin From Net: NetName=TX_SYTH_SCLK Pin=Header4-26
+Removed Pin From Net: NetName=TX_SYTH_MUX Pin=Header4-28
+Removed Pin From Net: NetName=TX_AUX_REF_CLK Pin=Header4-29
+Added Pin To Net: NetName=TX_SYTH_MUX Pin=Header4-2
+Added Pin To Net: NetName=TX_SYTH_DATA Pin=Header4-4
+Added Pin To Net: NetName=TX_AUX_REF_CLK Pin=Header4-26
+Added Pin To Net: NetName=TX_SYTH_SCLK Pin=Header4-28
+Added Pin To Net: NetName=TX_SYTH_LE Pin=Header4-29
