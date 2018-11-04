@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC102_1 Pin=C102-1
+Removed Pin From Net: NetName=NetC103_1 Pin=C103-1
+Added Pin To Net: NetName=FWP_DETECTOR Pin=C102-1
+Added Pin To Net: NetName=RWP_DETECTOR Pin=C103-1
+Change Net Name : Old Net Name=NetC102_1 New Net Name=NetR80_1
+Change Net Name : Old Net Name=NetC103_1 New Net Name=NetR81_1

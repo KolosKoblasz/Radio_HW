@@ -1,0 +1,196 @@
+Protel Design System Design Rule Check
+PCB File : D:\DIY\HW\Radio_Motherboard\PCB_Motherboard.PcbDoc
+Date     : 2018.11.04.
+Time     : 13:58:13
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 3.3V Between Pad Socket4-1 (50,63mm) And Pad Socket3-3 (50,85.46mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket4-7 (50,55.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket4-5 (50,57.92mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C108-2 (66.5,64.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Trigger Out-2 (69.8,46.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Trigger Out-2 (69.8,41.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R103-1 (73,61mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Trigger Out-2 (74.8,46.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Trigger Out-2 (74.8,41.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket3-7 (50,80.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket3-5 (50,82.92mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_3-4 (77,67.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R98-2 (73.9,75mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_3-9 (79.1,68.025mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_3-5 (81.19,67.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C113-1 (80.5,71.4mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP1-1 (87,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-1 (87,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R107-2 (78.1,79mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C109-2 (89,64.4mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header4-23 (67.5,89.62mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-3 (89.54,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header4-47 (70.04,89.62mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP2-1 (92,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-5 (92.08,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R105-1 (94,61mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-7 (94.62,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP3-1 (97,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-9 (97.16,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R99-2 (94.1,76mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_4-4 (98,67.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-11 (99.7,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP4-1 (102,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_4-9 (100.1,68.025mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-13 (102.24,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_4-5 (102.19,67.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C110-1 (101.5,71.4mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-15 (104.78,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP5-1 (107,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-17 (107.32,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket2-21 (50,112.6mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-19 (109.86,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R96-2 (104.9,79mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP6-1 (112,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket2-19 (50,115.14mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C107-2 (112,64.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-21 (112.4,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header4-13 (67.5,115.02mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket2-17 (50,117.68mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header4-37 (70.04,115.02mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-23 (114.94,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C106-2 (97.9,97.95mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_1-4 (94.45,102.25mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP7-1 (117,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket2-15 (50,120.22mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_1-9 (93.475,104.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-25 (117.48,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_1-5 (94.45,106.44mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket2-13 (50,122.76mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-27 (120.02,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R97-2 (117.9,75mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad TP8-1 (122,53mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_2-4 (121,67.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad GPIOS-29 (122.56,43mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C111-1 (95,111mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R101-1 (121.6,72mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_2-9 (123.1,68.025mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad LDO_2-5 (125.19,67.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header7-24 (119,87.08mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C114-2 (99.9,113.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C101-2 (74,128.1mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header7-48 (121.54,87.08mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header4-7 (67.5,130.26mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C115-1 (104.25,111.1mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C112-1 (128.9,67.2mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C119-2 (92.9,125.7mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C116-1 (107.75,115.1mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header5-5 (72.58,135.32mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C103-2 (81,132.85mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C120-2 (96.6,125.7mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header5-3 (72.58,137.86mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header4-3 (67.5,140.42mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket8-10 (140,52.84mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C102-2 (81,137.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket8-8 (140,55.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket8-6 (140,57.92mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header5-1 (72.58,140.4mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket7-7 (137.46,80.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C122-2 (102.5,128.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket7-5 (137.46,82.92mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header7-13 (119,115.02mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header4-1 (67.5,145.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header7-12 (119,117.56mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header7-37 (121.54,115.02mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R111-2 (91.8,139mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C105-2 (81,143.9mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header7-36 (121.54,117.56mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C104-2 (74,147.9mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C117-2 (101.5,137.6mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket1-5 (50,152.92mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C121-1 (93.5,144.2mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C123-1 (95.6,144.2mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket1-3 (50,155.46mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad R114-2 (93.8,147.1mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad SWPS_1-8 (105.25,141mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad SWPS_1-33 (104,143mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad SWPS_1-19 (105.25,145mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket6-22 (140,112.6mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket6-20 (140,115.14mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C125-1 (95.4,152.6mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C124-2 (106,147.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket6-18 (140,117.68mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad FPGA-2 (69,163mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket6-16 (140,120.22mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C128-1 (103.1,152.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket6-14 (140,122.76mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket6-12 (140,125.3mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Header7-25 (121.54,145.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C126-1 (96,164.6mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad C127-2 (101,167.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad +19V-2 (118,163mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket5-5 (137.46,152.92mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Socket4-9 (50,52.84mm) And Pad Socket5-3 (137.46,155.46mm)
+   Violation between Un-Routed Net Constraint: Net VOUT_6V Between Track on layer Top Layer (92.9,123.3mm) And Pad R110-2 (95,131mm)
+   Violation between Un-Routed Net Constraint: Net VOUT_6V Between Pad C119-1 (92.9,123.8mm) And Pad SWPS_1-1 (101.75,141mm)
+Rule Violations :125
+
+Processing Rule : Clearance Constraint (Gap=0.18mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (105.5mm,140.2mm) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (107mm,140.2mm) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (106.2mm,140.2mm) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (105.6mm,146mm) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (106.4mm,146mm) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (107.1mm,146mm) Top Layer to Bottom Layer
+Rule Violations :6
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Net Lengths(Tolerance=1mm) (InNetClass('DAC_DataBus'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mm) (Max=2540mm) (All)
+Rule Violations :0
+
+Processing Rule : Parallel Segment Constraint (Gap=0.254mm ) (Limit=254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Matched Net Lengths(Tolerance=1mm) (InNetClass('ADC_DataBus'))
+Rule Violations :0
+
+
+Violations Detected : 131
+Time Elapsed        : 00:00:01

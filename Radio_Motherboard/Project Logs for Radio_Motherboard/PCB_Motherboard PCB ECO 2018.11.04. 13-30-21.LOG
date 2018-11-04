@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetLED13_1 Pin=6V-1
+Removed Pin From Net: NetName=LDO_IN Pin=6V-2
+Removed Pin From Net: NetName=PG Pin=LDO_1-6
+Removed Pin From Net: NetName=PG Pin=LDO_2-6
+Removed Pin From Net: NetName=PG Pin=LDO_3-6
+Removed Pin From Net: NetName=PG Pin=LDO_4-6
+Removed Member From Class: ClassName=MotherBoard_PowerSupply Member=6V
+Added Component: Designator=LED13(0805 SMD Passive)
+Added Pin To Net: NetName=LDO_IN Pin=LDO_1-6
+Added Pin To Net: NetName=LDO_IN Pin=LDO_2-6
+Added Pin To Net: NetName=LDO_IN Pin=LDO_3-6
+Added Pin To Net: NetName=LDO_IN Pin=LDO_4-6
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=LDO_IN Pin=LED13-2
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component LED13 LED_Green

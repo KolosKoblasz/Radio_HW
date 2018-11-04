@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetLED13_1 Pin=6V-1
+Removed Pin From Net: NetName=VOUT_6V Pin=6V-2
+Removed Pin From Net: NetName=NetC109_1 Pin=Amp5V-2
+Removed Member From Class: ClassName=MotherBoard_PowerSupply Member=6V
+Added Component: Designator=LED13(0805 SMD Passive)
+Added Pin To Net: NetName=5V_AMP Pin=Amp5V-2
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=LDO_IN Pin=LED13-2
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component LED13 LED_Green

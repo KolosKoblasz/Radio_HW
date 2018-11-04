@@ -121,6 +121,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSLBLYFM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Radio_Motherboard\Design Rule Check - PCB_Motherboard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
