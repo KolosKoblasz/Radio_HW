@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=GND Pin=C115-1
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component C115 Cap1

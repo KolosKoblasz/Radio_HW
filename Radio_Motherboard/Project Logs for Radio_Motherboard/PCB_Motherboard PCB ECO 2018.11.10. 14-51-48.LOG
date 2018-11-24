@@ -1,0 +1,41 @@
+Added Component: Designator=LED5(0805 SMD Passive)
+Added Component: Designator=R82(0805 SMD Passive)
+Added Component: Designator=R83(0805 SMD Passive)
+Added Component: Designator=R84(0805 SMD Passive)
+Added Component: Designator=R85(0805 SMD Passive)
+Added Component: Designator=R86(0805 SMD Passive)
+Added Component: Designator=R87(0805 SMD Passive)
+Added Component: Designator=R88(0805 SMD Passive)
+Added Component: Designator=R89(0805 SMD Passive)
+Added Pin To Net: NetName=GND Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=TP_1 Pin=R82-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R82-2
+Added Pin To Net: NetName=TP_2 Pin=R83-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R83-2
+Added Pin To Net: NetName=TP_3 Pin=R84-1
+Added Pin To Net: NetName=NetLED3_2 Pin=R84-2
+Added Pin To Net: NetName=TP_4 Pin=R85-1
+Added Pin To Net: NetName=NetLED4_2 Pin=R85-2
+Added Pin To Net: NetName=TP_5 Pin=R86-1
+Added Pin To Net: NetName=NetLED5_2 Pin=R86-2
+Added Pin To Net: NetName=TP_6 Pin=R87-1
+Added Pin To Net: NetName=NetLED6_2 Pin=R87-2
+Added Pin To Net: NetName=TP_7 Pin=R88-1
+Added Pin To Net: NetName=NetLED7_2 Pin=R88-2
+Added Pin To Net: NetName=TP_8 Pin=R89-1
+Added Pin To Net: NetName=NetLED8_2 Pin=R89-2
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component C106 Cap2
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component C111 Cap1
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component C115 Cap1
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component LDO_1 LTI1965
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component LED5 LED_Green
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R82 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R83 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R84 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R85 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R86 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R87 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R88 Resistor
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component R89 Resistor
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component R92 Resistor

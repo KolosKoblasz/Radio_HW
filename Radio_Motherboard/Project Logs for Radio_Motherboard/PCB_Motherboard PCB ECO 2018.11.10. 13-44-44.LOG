@@ -1,0 +1,103 @@
+Change Physical Footprint: Designator=C101 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C102 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C103 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C104 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C105 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C106 Old Footprint=ELKO_CAP New Footprint=ELKO_CAP
+Change Physical Footprint: Designator=C107 Old Footprint=ELKO_CAP New Footprint=ELKO_CAP
+Change Physical Footprint: Designator=C108 Old Footprint=ELKO_CAP New Footprint=ELKO_CAP
+Change Physical Footprint: Designator=C109 Old Footprint=ELKO_CAP New Footprint=ELKO_CAP
+Change Physical Footprint: Designator=C110 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C111 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C112 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C113 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C114 Old Footprint=ELKO_CAP New Footprint=ELKO_CAP
+Change Physical Footprint: Designator=C115 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C116 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C117 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C118 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C119 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C120 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C121 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C122 Old Footprint=ELKO_CAP New Footprint=ELKO_CAP
+Change Physical Footprint: Designator=C123 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C124 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C125 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C126 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=C127 Old Footprint=ELKO_CAP New Footprint=ELKO_CAP
+Change Physical Footprint: Designator=C128 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=Conn_1 Old Footprint=DC_Connector New Footprint=DC_Connector
+Change Physical Footprint: Designator=Conn_2 Old Footprint=DC_Connector New Footprint=DC_Connector
+Change Physical Footprint: Designator=FB1 Old Footprint=FerritBead New Footprint=FerritBead
+Change Physical Footprint: Designator=FB2 Old Footprint=FerritBead New Footprint=FerritBead
+Change Physical Footprint: Designator=Header4 Old Footprint=Header2 New Footprint=Header2
+Change Physical Footprint: Designator=Header5 Old Footprint=Header4 New Footprint=Header4
+Change Physical Footprint: Designator=Header6 Old Footprint=Header1 New Footprint=Header1
+Change Physical Footprint: Designator=Header7 Old Footprint=Header2 New Footprint=Header2
+Change Physical Footprint: Designator=L23 Old Footprint=SMD Inductor New Footprint=SMD Inductor
+Change Physical Footprint: Designator=LDO_1 Old Footprint=LT1965 New Footprint=LT1965
+Change Physical Footprint: Designator=LDO_2 Old Footprint=LT1965 New Footprint=LT1965
+Change Physical Footprint: Designator=LDO_3 Old Footprint=LT1965 New Footprint=LT1965
+Change Physical Footprint: Designator=LDO_4 Old Footprint=LT1965 New Footprint=LT1965
+Change Physical Footprint: Designator=LED1 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED2 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED3 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED4 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED5 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED6 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED7 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED8 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED9 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED10 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED11 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED12 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=LED13 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=Power Switch1 Old Footprint=Switch New Footprint=Switch
+Change Physical Footprint: Designator=R79 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R80 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R81 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R82 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R83 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R84 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R85 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R86 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R87 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R88 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R89 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R90 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R91 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R92 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R93 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R94 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R95 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R96 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R97 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R98 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R99 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R100 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R101 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R102 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R103 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R104 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R105 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R106 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R107 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R108 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R109 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R110 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R111 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R112 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R113 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R114 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R115 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=R116 Old Footprint=0805 SMD Passive New Footprint=0805 SMD Passive
+Change Physical Footprint: Designator=SMA_8 Old Footprint=SMA_Board New Footprint=SMA_Board
+Change Physical Footprint: Designator=Socket1 Old Footprint=Socket3_L New Footprint=Socket3_L
+Change Physical Footprint: Designator=Socket2 Old Footprint=Socket1_L New Footprint=Socket1_L
+Change Physical Footprint: Designator=Socket3 Old Footprint=Socket3_L New Footprint=Socket3_L
+Change Physical Footprint: Designator=Socket4 Old Footprint=Socket3_L New Footprint=Socket3_L
+Change Physical Footprint: Designator=Socket5 Old Footprint=Socket3_R New Footprint=Socket3_R
+Change Physical Footprint: Designator=Socket6 Old Footprint=Socket1_R New Footprint=Socket1_R
+Change Physical Footprint: Designator=Socket7 Old Footprint=Socket3_R New Footprint=Socket3_R
+Change Physical Footprint: Designator=Socket8 Old Footprint=Socket3_R New Footprint=Socket3_R
+Change Physical Footprint: Designator=SWPS_1 Old Footprint=LT8646S New Footprint=LT8646S

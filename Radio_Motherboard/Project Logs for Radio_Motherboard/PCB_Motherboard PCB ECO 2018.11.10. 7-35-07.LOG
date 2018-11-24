@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=+19V NewDesignator=Conn_2
+Change Component Designator: OldDesignator=3.3V NewDesignator=LED9
+Change Component Designator: OldDesignator=Amp5V NewDesignator=LED12
+Change Component Designator: OldDesignator=FPGA NewDesignator=Conn_1
+Change Component Designator: OldDesignator=GPIOS NewDesignator=Header6
+Change Component Designator: OldDesignator=Power NewDesignator=Power Switch1
+Change Component Designator: OldDesignator=Rx5V NewDesignator=LED10
+Change Component Designator: OldDesignator=TP1 NewDesignator=LED1
+Change Component Designator: OldDesignator=TP2 NewDesignator=LED2
+Change Component Designator: OldDesignator=TP3 NewDesignator=LED3
+Change Component Designator: OldDesignator=TP4 NewDesignator=LED4
+Change Component Designator: OldDesignator=TP5 NewDesignator=LED5
+Change Component Designator: OldDesignator=TP6 NewDesignator=LED6
+Change Component Designator: OldDesignator=TP7 NewDesignator=LED7
+Change Component Designator: OldDesignator=TP8 NewDesignator=LED8
+Change Component Designator: OldDesignator=Trigger Out NewDesignator=SMA_8
+Change Component Designator: OldDesignator=Tx5V NewDesignator=LED11

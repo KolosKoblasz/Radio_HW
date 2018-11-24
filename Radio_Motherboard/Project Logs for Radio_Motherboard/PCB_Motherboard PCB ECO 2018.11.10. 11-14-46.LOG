@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC116_2 Pin=C115-2
+Added Pin To Net: NetName=LDO_IN Pin=C115-2
+Added Pin To Net: NetName=GND Pin=C119-2
+Added Pin To Net: NetName=GND Pin=C120-2
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component C115 Cap1
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component C119 Cap1
+Added Member To Class: ClassName=MotherBoard_PowerSupply Member=Component C120 Cap1

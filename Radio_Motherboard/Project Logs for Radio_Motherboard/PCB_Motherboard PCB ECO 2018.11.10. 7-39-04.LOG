@@ -1,0 +1,7 @@
+Change Component Comment : Designator=Conn_2 Old Comment=DC_Connector New Comment=+19V
+Change Component Comment : Designator=Conn_1 Old Comment=DC_Connector New Comment=FPGA
+Change Component Comment : Designator=LED9 Old Comment=LED_Green New Comment=+3.3V
+Change Component Comment : Designator=LED12 Old Comment=LED_Green New Comment=+5V AMP
+Change Component Comment : Designator=LED10 Old Comment=LED_Green New Comment=+5V Rx
+Change Component Comment : Designator=LED11 Old Comment=LED_Green New Comment=+5V Tx
+Change Component Comment : Designator=LED13 Old Comment=LED_Green New Comment=+6V

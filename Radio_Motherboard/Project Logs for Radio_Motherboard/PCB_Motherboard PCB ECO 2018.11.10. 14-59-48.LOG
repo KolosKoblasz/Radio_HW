@@ -1,0 +1,4 @@
+Added Component: Designator=LED6(0805 SMD Passive)
+Added Pin To Net: NetName=GND Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Member To Class: ClassName=MotherBoard_Interconnect Member=Component LED6 LED_Green
