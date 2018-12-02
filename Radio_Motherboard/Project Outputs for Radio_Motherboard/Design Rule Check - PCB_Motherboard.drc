@@ -1,7 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : D:\DIY\HW\Radio_Motherboard\PCB_Motherboard.PcbDoc
-Date     : 2018.11.10.
-Time     : 15:19:52
+Date     : 2018.12.01.
+Time     : 11:21:55
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (All),(OnLayer('Keep-Out Layer'))
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -60,6 +63,9 @@ Rule Violations :0
 Processing Rule : Matched Net Lengths(Tolerance=1mm) (InNetClass('ADC_DataBus'))
 Rule Violations :0
 
+Processing Rule : Clearance Constraint (Gap=2mm) (IsStitchingVia and InNet('GND')),((IsVia and (Not IsStitchingVia)) Or IsPad  Or IsTrack)
+Rule Violations :0
+
 
 Violations Detected : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:05

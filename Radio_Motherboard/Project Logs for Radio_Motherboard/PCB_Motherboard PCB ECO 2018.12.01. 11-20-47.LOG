@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=TP_1 Pin=Header7-15
+Removed Pin From Net: NetName=TP_2 Pin=Header7-16
+Removed Pin From Net: NetName=TP_3 Pin=Header7-17
+Removed Pin From Net: NetName=TP_4 Pin=Header7-18
+Removed Pin From Net: NetName=TP_5 Pin=Header7-19
+Removed Pin From Net: NetName=TP_6 Pin=Header7-20
+Removed Pin From Net: NetName=TP_7 Pin=Header7-21
+Added Pin To Net: NetName=TP_0 Pin=Header7-15
+Added Pin To Net: NetName=TP_1 Pin=Header7-16
+Added Pin To Net: NetName=TP_2 Pin=Header7-17
+Added Pin To Net: NetName=TP_3 Pin=Header7-18
+Added Pin To Net: NetName=TP_4 Pin=Header7-19
+Added Pin To Net: NetName=TP_5 Pin=Header7-20
+Added Pin To Net: NetName=TP_6 Pin=Header7-21
+Added Pin To Net: NetName=TP_7 Pin=Header7-22

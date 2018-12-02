@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=TP_8 Pin=Header6-2
+Removed Pin From Net: NetName=TP_7 Pin=Header6-6
+Removed Pin From Net: NetName=TP_6 Pin=Header6-10
+Removed Pin From Net: NetName=TP_5 Pin=Header6-14
+Removed Pin From Net: NetName=TP_4 Pin=Header6-18
+Removed Pin From Net: NetName=TP_3 Pin=Header6-22
+Removed Pin From Net: NetName=TP_2 Pin=Header6-26
+Removed Pin From Net: NetName=TP_1 Pin=Header7-15
+Removed Pin From Net: NetName=TP_2 Pin=R83-1
+Removed Pin From Net: NetName=TP_3 Pin=R84-1
+Removed Pin From Net: NetName=TP_4 Pin=R85-1
+Removed Pin From Net: NetName=TP_5 Pin=R86-1
+Removed Pin From Net: NetName=TP_6 Pin=R87-1
+Removed Pin From Net: NetName=TP_7 Pin=R88-1
+Removed Pin From Net: NetName=TP_8 Pin=R89-1
+Added Pin To Net: NetName=TP_7 Pin=Header6-2
+Added Pin To Net: NetName=TP_6 Pin=Header6-6
+Added Pin To Net: NetName=TP_5 Pin=Header6-10
+Added Pin To Net: NetName=TP_4 Pin=Header6-14
+Added Pin To Net: NetName=TP_3 Pin=Header6-18
+Added Pin To Net: NetName=TP_2 Pin=Header6-22
+Added Pin To Net: NetName=TP_2 Pin=R84-1
+Added Pin To Net: NetName=TP_3 Pin=R85-1
+Added Pin To Net: NetName=TP_4 Pin=R86-1
+Added Pin To Net: NetName=TP_5 Pin=R87-1
+Added Pin To Net: NetName=TP_6 Pin=R88-1
+Added Pin To Net: NetName=TP_7 Pin=R89-1
+Change Net Name : Old Net Name=TP_1 New Net Name=TP_0
+Added Pin To Net: NetName=TP_1 Pin=Header6-26
+Added Pin To Net: NetName=TP_1 Pin=Header7-15
+Added Pin To Net: NetName=TP_1 Pin=R83-1
+Added Net: Name=TP_1
+Added Room: Name=MotherBoard_Interconnect
+Added Room: Name=MotherBoard_PowerSupply
