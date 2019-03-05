@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Radio_ADC.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Radio_ADC.PrjPcb]
+   Generated File[ADC_Board.TXT]
+   Generated File[ADC_Board.LDP]
+   Generated File[ADC_Board.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 19:47:53 On 2018.09.01.
+Finished Output Generation At 11:51:02 On 2019.03.01.
