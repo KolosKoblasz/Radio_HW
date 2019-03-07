@@ -15,3 +15,6 @@ Project\ Outputs*/
 
 # Access lock file for dbLib sources
 **/*.ldb
+
+#Ignore all xlsx files
+*.xlsx
